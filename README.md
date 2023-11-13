@@ -61,6 +61,8 @@ Result Output
 
 
 data.head()
+
+
 ![s2](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119104282/f0407ba0-a899-43f2-9ec8-54033bb58bef)
 
 data.info()
